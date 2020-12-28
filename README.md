@@ -11,12 +11,11 @@ Write a console app which starts by asking:
 should be able to add items to the list(s) until you write "q" (for quit).
 - [x] Exit by presenting the list.
 
-##Level2
+## Level2
 - [x] Add price and summarize inputs when presenting.
 - [x] Quit the list after "q" is written.
 - [x] The list should be sorted from low price to high and a sum at the bottom.
-
-##Level3
+## Level3
 - [x] Refactor your code using "Linq".
 - [x] Add Error handling to your console app.
 
