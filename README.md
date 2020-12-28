@@ -6,6 +6,10 @@ Write a console app which starts by asking:
 3. Price
 
 ## Level1
+- [x] Create classes for Category and Product. Use these classes when you add items to a list.
+- [ ] You
+should be able to add items to the list(s) until you write "q" (for quit).
+- [ ] Exit by presenting the list.
 Create classes for Category and Product. Use these classes when you add items to a list. You
 should be able to add items to the list(s) until you write "q" (for quit).
 Exit by presenting the list.
