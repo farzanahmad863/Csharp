@@ -17,6 +17,7 @@ should be able to add items to the list(s) until you write "q" (for quit).
 - [x] The list should be sorted from low price to high and a sum at the bottom.
 
 ##Level3
-Refactor your code using "Linq".
-Add Error handling to your console app.
+- [x] Refactor your code using "Linq".
+- [x] Add Error handling to your console app.
+
  
