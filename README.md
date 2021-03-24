@@ -1,4 +1,3 @@
-# Csharp
 ## Intro
 Write a console app which starts by asking:
 1. Category
